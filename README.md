@@ -1,2 +1,2 @@
-# dicoding_belajar-dasar-pemrograman-web_v2
-Project Akhir Dicoding - Belajar Dasar Pemrograman Web v2
+# Project Akhir Dicoding - Belajar Dasar Pemrograman Web (Flexbox version)
+Project Submission for Dicoding: [**Belajar Dasar Pemrograman Web**](https://www.dicoding.com/academies/123)
